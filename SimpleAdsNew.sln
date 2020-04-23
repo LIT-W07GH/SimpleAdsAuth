@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAdsNew", "SimpleAdsNew\SimpleAdsNew.csproj", "{66197C42-7A52-4DE8-9003-7A5846DF9A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAdsNew.Data", "SimpleAdsNew.Data\SimpleAdsNew.Data.csproj", "{DC045D3D-DE3A-4283-8F57-EA892134351E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66197C42-7A52-4DE8-9003-7A5846DF9A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66197C42-7A52-4DE8-9003-7A5846DF9A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66197C42-7A52-4DE8-9003-7A5846DF9A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66197C42-7A52-4DE8-9003-7A5846DF9A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC045D3D-DE3A-4283-8F57-EA892134351E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC045D3D-DE3A-4283-8F57-EA892134351E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC045D3D-DE3A-4283-8F57-EA892134351E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC045D3D-DE3A-4283-8F57-EA892134351E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F54B274D-17BF-48C2-8FD3-D5F5FF9D14A5}
+	EndGlobalSection
+EndGlobal
